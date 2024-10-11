@@ -1,0 +1,9 @@
+.test {
+  font-size: 30px;
+  color: rebeccapurple;
+}
+.image {
+  width: 250px;
+  height: 240px;
+  object-fit: contain;
+}
